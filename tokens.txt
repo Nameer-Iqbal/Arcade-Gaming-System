@@ -1,0 +1,3 @@
+humaiz:1000
+umer:1000
+nameer:1000
